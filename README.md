@@ -24,6 +24,7 @@ Currently pursuing MCA, I have a strong interest in Web Development. With expert
 ## 🔭 Projects 
 
 - [PGseeker](https://pgseeker.netlify.app/) - A Paying Guests (PGs) listing platform.
+- [Hygenic Food](https://hygenicfood.netlify.app/) - A user-friendly platform for ordering and discovering dishes from top restaurants.
   
 ## 🤝 Collaboration
 
